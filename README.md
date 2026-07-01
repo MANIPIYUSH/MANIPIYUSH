@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm Piyush Mani Chaubey
 
-### Frontend Engineer • React Specialist • SaaS Builder
+### Senior Frontend Engineer • React Specialist • SaaS & AI Builder
 
 Building scalable SaaS products, AI-powered applications, and production-grade frontend architectures.
 
 <p>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/piyush-mani-chaubey-42b338a3/">
+  <a href="https://www.linkedin.com/in/piyush-mani-chaubey-42b338a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:piyushmanic@gmail.com">
@@ -18,61 +18,88 @@ Building scalable SaaS products, AI-powered applications, and production-grade f
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=MANIPIYUSH&label=Profile%20Views&color=2563eb&style=flat" />
+
 </div>
 
 ---
 
 # 🚀 About Me
 
-I'm a **Frontend Engineer with 4
-+ years of experience** building production-ready SaaS applications using **React**, **TypeScript**, **Redux Toolkit**, and modern frontend technologies.
+I'm a **Senior Frontend Engineer with 4+ years of experience** building scalable, production-ready SaaS applications using **React, TypeScript, Redux Toolkit, and modern frontend technologies**.
 
-Currently, I'm the **Sole Frontend Owner** of a large B2B SaaS platform where I design, develop, and maintain scalable user experiences used by real customers.
+Currently, I'm the **Sole Frontend Owner** of a large B2B SaaS platform where I architect, develop, and maintain enterprise-grade frontend systems used by customers worldwide.
 
-I enjoy solving complex frontend problems, building clean architectures, and creating high-performance web applications.
+I enjoy solving complex frontend challenges, building clean and scalable architectures, optimizing performance, and transforming business ideas into exceptional user experiences.
 
 ---
 
-# 💼 What I Build
+# 💡 Why Work With Me?
 
-- 🚀 SaaS Platforms
-- 📊 Admin Dashboards
-- 👥 CRM Systems
-- 🤖 AI-Powered Applications
-- 🔌 REST API Integrations
-- 💳 Payment Integrations
-- 📱 Responsive Web Applications
-- ⚡ Performance Optimized Frontends
+- 💻 4+ Years of Professional Frontend Engineering Experience
+- 🚀 Sole Frontend Owner of a Production B2B SaaS Platform
+- 📦 Built & maintained **90K+ Lines of Production Code**
+- 🧩 Developed **70+ Application Routes**
+- ⚙️ Architected **50+ Redux Modules**
+- 💳 Integrated PayPal, Razorpay & Wallet Payment Systems
+- 🏢 Built White-label Multi-Tenant SaaS Architecture
+- 📈 Improved Client Portal Engagement by **20%+**
+- 🎯 Passionate about scalable architecture, performance, and clean code
+
+---
+
+# 🚀 What I Build
+
+- SaaS Platforms
+- Admin Dashboards
+- CRM Systems
+- AI-Powered Web Applications
+- Enterprise Frontend Architectures
+- Payment Integrations
+- REST API Integrations
+- Multi-Tenant Applications
+- Responsive Web Applications
+- High-Performance User Interfaces
 
 ---
 
 # 📈 Professional Highlights
 
-- 💻 4+ Years of Frontend Experience
-- 🚀 Sole Frontend Owner of a Production B2B SaaS
-- 📦 Built & maintained **90K+ Lines of Code**
-- 🧩 Developed **70+ Application Routes**
-- ⚙️ Managed **50+ Redux Modules**
-- 💳 Integrated PayPal & Razorpay Payment Systems
-- 🏢 Built White-label Multi-tenant SaaS Architecture
-- 📈 Improved Client Portal Engagement by 20%+
+| Achievement | Impact |
+|------------|--------|
+| 👨‍💻 Experience | **4+ Years** |
+| 🚀 Production SaaS | Sole Frontend Owner |
+| 📦 Codebase | **90K+ LOC** |
+| 🧩 Application Routes | **70+** |
+| ⚙️ Redux Modules | **50+** |
+| 💳 Payment Gateways | PayPal + Razorpay |
+| 🏢 Architecture | White-label Multi-Tenant |
+| 📈 Engagement | +20% Client Portal Growth |
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui)
 
+### Styling
+
+- Material UI
+- Responsive Design
+- CSS3
+- HTML5
+- Framer Motion
+
 ---
 
-## Backend
+## ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
@@ -80,17 +107,26 @@ I enjoy solving complex frontend problems, building clean architectures, and cre
 
 ---
 
-## Tools
+## 🔧 Tools & Technologies
 
-Git • GitHub • Postman • Axios • REST APIs • ESLint • Framer Motion
+- Git
+- GitHub
+- Postman
+- Axios
+- REST APIs
+- SSE
+- PayPal SDK
+- Razorpay
+- ESLint
+- Vite
 
 ---
 
 # 🌟 Featured Projects
 
-## 🚀 Portfolio Website
+## 🚀 Personal Portfolio
 
-A modern portfolio showcasing my experience, projects, and frontend expertise.
+A modern developer portfolio focused on showcasing production experience, technical expertise, and professional achievements.
 
 **Tech Stack**
 
@@ -101,74 +137,116 @@ A modern portfolio showcasing my experience, projects, and frontend expertise.
 
 ---
 
-## 📊 RankRover (Production SaaS)
+## 📊 RankRover — Production B2B SaaS
 
-A production-grade B2B SaaS platform built for SEO agencies.
+**Role:** Sole Frontend Engineer
 
-### Highlights
+Designed and developed the frontend architecture for a production-grade SEO & Marketing SaaS platform supporting agencies worldwide.
 
-- Multi-tenant architecture
-- White-label support
+### Key Highlights
+
+- 70+ Lazy Loaded Routes
+- 50+ Redux Modules
+- White-label SaaS
+- Multi-Tenant Architecture
+- CRM Modules
 - Dashboard & Analytics
 - Payment Integration
-- CRM Modules
-- Admin Panels
-- Marketing Tools
+- Admin Panel
+- Marketing Platform
+- Performance Optimization
 
-> Due to company confidentiality, the source code is private.
+> 🔒 Source code is private due to company confidentiality.
 
 ---
 
 ## 👥 CRM Platform
 
-Internal CRM system for campaign management, reporting, dashboards, and client operations.
+Designed and developed an internal CRM system for campaign management, client operations, reporting pipelines, dashboards, and business workflows.
+
+**Tech**
+
+- React
+- Redux
+- Material UI
+- REST APIs
 
 ---
 
 ## 🤖 Movie Recommendation System
 
-Hybrid recommendation engine combining collaborative filtering, content-based recommendations, and genre popularity.
+Built a recommendation engine combining collaborative filtering, content-based recommendations, and genre popularity into a responsive web application.
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
 - AI Agents
-- MCP
+- MCP (Model Context Protocol)
 - React Native
 - System Design
 - Cloud Deployment
 - AI SDK Integrations
+- LLM Applications
+- Advanced Frontend Architecture
 
 ---
 
 # 🤝 Open To
 
-- Freelance Projects
-- SaaS Development
+- Long-term Freelance Projects
+- SaaS Product Development
 - Startup Collaborations
 - Frontend Consulting
-- Open Source Contributions
+- React Development
+- AI Frontend Development
+- Enterprise Dashboard Development
+- Technical Mentoring
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Stats
 
-🌐 Portfolio: https://your-portfolio-url.com
+<p align="center">
 
-💼 LinkedIn:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MANIPIYUSH&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANIPIYUSH&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANIPIYUSH&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+🌐 **Portfolio**
+
+https://your-portfolio-url.com
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/piyush-mani-chaubey-42b338a3/
 
-📧 Email:
-piyushmanic@gmail.com
+🐙 **GitHub**
 
-🐙 GitHub:
 https://github.com/MANIPIYUSH
+
+📧 **Email**
+
+piyushmanic@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ Building products that scale, not just interfaces.
+### 💬 "Great products are built by engineers who care about users, performance, and maintainable code."
+
+⭐ If you like my work, feel free to connect or collaborate!
 
 </div>
