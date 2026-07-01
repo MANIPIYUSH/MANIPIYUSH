@@ -24,7 +24,8 @@ Building scalable SaaS products, AI-powered applications, and production-grade f
 
 # 🚀 About Me
 
-I'm a **Frontend Engineer with 3+ years of experience** building production-ready SaaS applications using **React**, **TypeScript**, **Redux Toolkit**, and modern frontend technologies.
+I'm a **Frontend Engineer with 4
++ years of experience** building production-ready SaaS applications using **React**, **TypeScript**, **Redux Toolkit**, and modern frontend technologies.
 
 Currently, I'm the **Sole Frontend Owner** of a large B2B SaaS platform where I design, develop, and maintain scalable user experiences used by real customers.
 
@@ -47,7 +48,7 @@ I enjoy solving complex frontend problems, building clean architectures, and cre
 
 # 📈 Professional Highlights
 
-- 💻 3+ Years of Frontend Experience
+- 💻 4+ Years of Frontend Experience
 - 🚀 Sole Frontend Owner of a Production B2B SaaS
 - 📦 Built & maintained **90K+ Lines of Code**
 - 🧩 Developed **70+ Application Routes**
